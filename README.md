@@ -27,4 +27,4 @@
 !["Run"](static/run_one.png)
 
 ### Авторы
-[![Contributors](https://contrib.rocks/image?repo=hayasenna/computer_science)](https://github.com/hayasenna/computer_science/graphs/contributors)
+[hayasenna](https://github.com/hayasenna), [Dushnila](https://github.com/AnotherOneDushnila)
